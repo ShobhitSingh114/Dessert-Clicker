@@ -63,7 +63,6 @@ import androidx.core.content.ContextCompat
 import com.example.dessertclicker.data.Datasource
 import com.example.dessertclicker.model.Dessert
 import com.example.dessertclicker.ui.Abc
-import com.example.dessertclicker.ui.DessertClickerApp
 import com.example.dessertclicker.ui.theme.DessertClickerTheme
 
 // Tag for logging
