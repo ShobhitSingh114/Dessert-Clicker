@@ -67,6 +67,7 @@ android {
 
 dependencies {
 
+    implementation("com.google.android.gms:play-services-wallet:19.2.1")
     val lifecycle_version = "2.5.1"
 
     implementation(platform("androidx.compose:compose-bom:2023.05.01"))
